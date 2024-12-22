@@ -19,3 +19,4 @@ extension Color {
     }
 }
 
+// To incorporate hex colors, use a '.fill' modifier, followed by the hex code, '(Color(hex: "#123456")'.
